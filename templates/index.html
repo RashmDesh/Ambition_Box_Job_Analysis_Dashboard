@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ambition Box Job Data Dashboard</h1>
+        <form method="POST" action="/results">
+
+            <label>Location:</label>
+            <select name="location">
+                <option>All</option>
+                {% for loc in locations %}
+                <option>{{ loc }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Industry:</label>
+            <select name="industry">
+                <option>All</option>
+                {% for ind in industries %}
+                <option>{{ ind }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Minimum Rating:</label>
+            <input type="number" step="0.1" name="rating" placeholder="e.g. 3.5">
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

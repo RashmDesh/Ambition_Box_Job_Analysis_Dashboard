@@ -1,0 +1,501 @@
+company,ratings,Industry,location,reviews,salaries,jobs
+TCS,3.3,IT Services & Consulting,Bengaluru,110000.00000000001,990000.0,3500.0
+Accenture,3.7,IT Services & Consulting,Bengaluru,72400.0,660000.0,28000.0
+Wipro,3.6,IT Services & Consulting,Hyderabad,64300.0,480000.0,448.0
+Cognizant,3.7,IT Services & Consulting,Hyderabad,60600.0,600000.0,472.0
+Capgemini,3.7,IT Services & Consulting,Bengaluru,52300.0,480000.0,2600.0
+"HDFC, Bank",3.8,Banking,Mumbai,51500.0,150000.0,385.0
+Infosys,3.5,IT Services & Consulting,Bengaluru,48100.0,520000.0,2500.0
+"ICICI, Bank",3.9,Banking,Mumbai,45400.0,150000.0,15.0
+HCLTech,3.4,IT Services & Consulting,Chennai,45300.0,380000.0,278.0
+"Tech, Mahindra",3.4,IT Services & Consulting,Hyderabad,42800.0,280000.0,662.0
+Genpact,3.6,Analytics & KPO,Hyderabad,41500.0,229999.99999999997,893.0
+TP,3.8,BPO,Mumbai,37700.0,97400.0,2100.0
+Jio,4.4,Telecom,Mumbai,33500.0,62600.0,1.0
+"Axis, Bank",3.6,Banking,Mumbai,32700.000000000004,100000.0,232.0
+"Concentrix, Corporation",3.6,BPO,Bengaluru,31800.0,130000.0,40.0
+Amazon,3.9,Internet,Bengaluru,31200.0,150000.0,2100.0
+"Reliance, Retail",3.9,Retail,Mumbai,27200.0,76600.0,137.0
+iEnergizer,4.6,BPO,Noida,27100.0,24400.0,93.0
+LTIMindtree,3.6,IT Services & Consulting,Bengaluru,26100.0,190000.0,351.0
+IBM,3.9,IT Services & Consulting,Bengaluru,25500.0,210000.0,2000.0
+"HDB, Financial, Services",3.9,NBFC,Mumbai,25400.0,49800.0,2000.0
+"Larsen, Toubro, Limited",3.9,Engineering & Construction,Chennai,23600.0,75000.0,70.0
+Deloitte,3.7,Management Consulting,Hyderabad,22800.0,250000.0,1600.0
+"Kotak, Mahindra, Bank",3.6,Banking,Mumbai,22200.0,87100.0,161.0
+"Reliance, Industries",4.0,Oil & Gas,Jamnagar,20000.0,72900.0,83.0
+"Vodafone, Idea",3.9,Telecom,Pune,17500.0,49600.0,61.0
+"Bharti, Airtel",3.8,Telecom,Gurugram,17000.0,49700.0,182.0
+"BYJU, S",3.2,EdTech,Bengaluru,16400.0,53400.0,1.0
+WNS,3.3,IT Services & Consulting,Pune,15000.0,69900.0,97.0
+"IDFC, FIRST, Bank",3.9,Banking,Mumbai,14300.0,49300.0,42.0
+"Ernst, Young",3.4,Management Consulting,Bengaluru,14300.0,140000.0,3800.0
+"Tata, Motors",4.1,Automobile,Pune,14100.0,42900.0,159.0
+"IndusInd, Bank",3.4,Banking,Mumbai,14100.0,52000.0,95.0
+"AU, Small, Finance, Bank",3.9,Banking,Jaipur,14000.0,29600.0,218.0
+"Muthoot, FinCorp",4.6,NBFC,Bengaluru,13100.0,9200.0,19.0
+"Bajaj, Finserv",4.0,NBFC,Pune,12900.0,30600.0,11.0
+Flipkart,3.9,Internet,Bengaluru,12800.0,54800.0,139.0
+PwC,3.3,Management Consulting,Bengaluru,12300.0,120000.0,1100.0
+"Mahindra, Mahindra",4.0,Automobile,Pune,11900.0,40300.0,1.0
+"Infosys, BPM",3.5,BPO,Bengaluru,11900.0,74700.0,66.0
+"DXC, Technology",3.6,IT Services & Consulting,Bengaluru,11900.0,71900.0,202.0
+"HDFC, Life",3.9,Insurance,Mumbai,11900.0,32900.0,105.0
+"Bandhan, Bank",3.7,Banking,Kolkata,10900.0,24800.0,32.0
+"Digitide, Solutions",3.5,IT Services & Consulting,Hyderabad,10200.0,26700.0,335.0
+Mphasis,3.3,IT Services & Consulting,Bengaluru,10100.0,74100.0,45.0
+"Yes, Bank",3.7,Banking,Mumbai,10100.0,43300.0,200.0
+"Tata, Steel",4.0,Iron & Steel,Jamshedpur,9800.0,34400.0,0.0
+Quess,3.8,Recruitment,Bengaluru,9600.0,31200.0,42.0
+"Maruti, Suzuki",4.2,Automobile,Gurugram,9500.0,28500.0,787.0
+"Asian, Paints",3.9,Chemicals,Mumbai,9500.0,25800.0,67.0
+Startek,3.1,BPO,Bengaluru,9400.0,24500.0,213.0
+"UltraTech, Cement",4.1,Building Material,Mumbai,9300.0,24900.0,32.0
+Paytm,3.2,FinTech,Noida,9200.0,34300.0,281.0
+"Bajaj, Finance",3.9,NBFC,Pune,9100.0,22800.0,6700.0
+"Shriram, Finance",4.0,NBFC,Chennai,9000.0,15000.0,17.0
+"Sutherland, Global, Services",3.4,BPO,Chennai,8900.0,35200.0,257.0
+"Equitas, Small, Finance, Bank",4.4,Banking,Chennai,8800.0,13400.0,26.0
+Cipla,4.1,Pharma,Mumbai,8500.0,26300.0,78.0
+"EXL, Service",3.6,Analytics & KPO,Noida,8500.0,44400.0,290.0
+"Wells, Fargo",3.6,Financial Services,Bengaluru,8500.0,57000.0,550.0
+Ericsson,3.9,Telecom,Noida,8300.0,42400.0,40.0
+Samsung,3.9,Consumer Electronics & Appliances,Noida,8300.0,26500.0,18.0
+"Dr, Reddy, s",4.0,Pharma,Hyderabad,8100.0,26000.0,11.0
+"Optum, Global, Solutions",4.0,IT Services & Consulting,Hyderabad,7800.0,49800.0,121.0
+"JPMorgan, Chase, Co",3.8,Financial Services,Bengaluru,7700.0,88300.0,998.0
+"JSW, Steel",3.9,Iron & Steel,Ballari,7700.0,31400.0,131.0
+Delhivery,3.8,Logistics,Gurugram,7700.0,21400.0,185.0
+"ICICI, Prudential, Life, Insurance",3.9,Insurance,Mumbai,7700.0,23400.0,220.0
+"Hexaware, Technologies",3.4,IT Services & Consulting,Chennai,7600.0,54100.0,512.0
+HGS,3.7,BPO,Bengaluru,7500.0,20600.0,16.0
+"Jana, Small, Finance, Bank",3.8,Banking,Bengaluru,7500.0,14200.0,38.0
+"Ujjivan, Small, Finance, Bank",4.0,Banking,Bengaluru,7500.0,13300.0,592.0
+"Sun, Pharmaceutical, Industries",4.1,Pharma,Vadodara,7500.0,23300.0,371.0
+"Amazon, Development, Centre, India",3.8,Internet,Hyderabad,7500.0,38600.0,4.0
+Lupin,4.1,Pharma,Pune,7300.0,22500.0,19.0
+"Ekart, Logistics",3.9,Logistics,Bengaluru,7300.0,16100.000000000002,0.0
+"Zydus, Lifesciences",4.0,Pharma,Ahmedabad,7300.0,20000.0,50.0
+"L, T, Construction",4.0,Engineering & Construction,Chennai,7300.0,19300.0,0.0
+"Hindustan, Unilever",4.2,FMCG,Mumbai,7200.0,20400.0,54.0
+"KPMG, India",3.4,Management Consulting,Bengaluru,7100.0,66000.0,69.0
+ITC,3.9,FMCG,Bengaluru,7100.0,24900.0,89.0
+"Axis, Max, Life, Insurance",4.0,Insurance,New,7100.0,20300.0,145.0
+"Megha, Engineering, Infrastructures",3.9,Engineering & Construction,Hyderabad,6800.0,18600.0,34.0
+"Tata, Projects",4.2,Engineering & Construction,Mumbai,6800.0,22700.0,52.0
+Coforge,3.3,IT Services & Consulting,Noida,6700.0,50100.0,172.0
+"Bajaj, Life, Insurance",3.8,Insurance,Pune,6500.0,17400.0,64.0
+"Cholamandalam, Investment, Finance",3.8,Financial Services,Chennai,6500.0,12700.0,34.0
+"L, T, Technology, Services",3.1,IT Services & Consulting,Bengaluru,6500.0,43400.0,0.0
+FIS,3.8,FinTech,Pune,6500.0,38900.0,115.0
+Oracle,3.5,Software Product,Bengaluru,6300.0,63300.0,113.0
+"Omega, Healthcare",3.8,BPO,Chennai,6300.0,26900.0,168.0
+"Muthoot, Finance",3.7,NBFC,Bengaluru,6300.0,12900.0,116.0
+"IIFL, Finance",4.0,NBFC,Mumbai,6300.0,14000.0,73.0
+JLL,4.1,Real Estate,Gurugram,6300.0,24400.0,371.0
+"Indian, Army",4.7,Defence & Aerospace,New,6200.0,9400.0,0.0
+eClerx,3.1,IT Services & Consulting,Pune,6200.0,32500.0,652.0
+"HCL, Group",3.5,IT Services & Consulting,Chennai,6100.0,39300.0,0.0
+DMart,3.9,Retail,Mumbai,6000.0,18400.0,206.0
+"Virtusa, Consulting, Services",3.7,IT Services & Consulting,Hyderabad,6000.0,57000.0,1200.0
+"Piramal, Finance",4.2,NBFC,Mumbai,6000.0,12300.0,7.0
+"Indiamart, Intermesh",3.5,Internet,Noida,5900.0,21500.0,176.0
+"HSBC, Group",3.9,Financial Services,Bengaluru,5900.0,43800.0,126.0
+PolicyBazaar,3.8,Internet,Gurugram,5900.0,17500.0,717.0
+"SMFG, India, Credit",3.9,NBFC,Mumbai,5900.0,10900.0,56.0
+"Access, Healthcare",3.7,BPO,Chennai,5800.0,28900.0,1800.0
+BigBasket,3.9,Internet,Bengaluru,5800.0,19300.0,78.0
+Siemens,3.9,Industrial Automation,Bengaluru,5700.0,34200.0,81.0
+"Aurobindo, Pharma",4.0,Pharma,Hyderabad,5700.0,20700.0,24.0
+Udaan,3.9,Internet,Bengaluru,5700.0,15700.0,8.0
+GlobalLogic,3.5,IT Services & Consulting,Hyderabad,5700.0,41100.0,37.0
+"Firstsource, Solutions",3.5,BPO,Bengaluru,5700.0,24700.0,177.0
+"Manappuram, Finance",3.9,NBFC,Bengaluru,5700.0,9200.0,13.0
+"ICICI, Lombard, General, Insurance, Company",3.5,Insurance,Mumbai,5700.0,20300.0,224.0
+"Tata, Capital",4.0,NBFC,Mumbai,5700.0,15900.0,4900.0
+"Shapoorji, Pallonji, Group",4.1,Engineering & Construction,Mumbai,5600.0,15500.0,70.0
+"Standard, Chartered",3.6,Banking,Chennai,5600.0,42200.0,0.0
+UST,3.7,IT Services & Consulting,Bengaluru,5600.0,39900.0,91.0
+"Apollo, Hospitals",4.1,Healthcare,Chennai,5600.0,16600.0,224.0
+"Mahindra, Finance",3.9,NBFC,Mumbai,5600.0,12100.0,535.0
+"Bosch, Global, Software, Technologies",3.7,IT Services & Consulting,Bengaluru,5600.0,40500.0,19.0
+"Ashok, Leyland",4.0,Automobile,Chennai,5500.0,19000.0,1.0
+Swiggy,3.7,Internet,Bengaluru,5500.0,23500.0,254.0
+Citicorp,3.7,Financial Services,Pune,5500.0,53500.0,0.0
+"Hero, MotoCorp",4.1,Automobile,Gurugram,5400.0,15900.0,1.0
+"CGI, Group",4.0,IT Services & Consulting,Bengaluru,5300.0,46300.0,484.0
+Cyient,3.6,IT Services & Consulting,Hyderabad,5300.0,27500.0,84.0
+"SBI, Cards, Payment, Services",3.6,Financial Services,Gurugram,5200.0,15900.0,74.0
+BNY,3.6,Financial Services,Pune,5200.0,31400.0,77.0
+"Kalpataru, Projects, International",4.2,Engineering & Construction,Mumbai,5200.0,13800.0,4.0
+IQVIA,3.7,Clinical Research,Bengaluru,5200.0,31200.0,42.0
+"NTT, DATA",3.8,IT Services & Consulting,Bengaluru,5200.0,36500.0,82.0
+"Nagarjuna, Construction, Company",4.0,Engineering & Construction,Hyderabad,5100.0,12200.0,17.0
+JustDial,3.5,Internet,Noida,5100.0,15300.0,90.0
+"Schneider, Electric",4.1,Industrial Automation,Bengaluru,5100.0,25000.0,170.0
+"SBI, Life, Insurance, Company",3.7,Insurance,Mumbai,5100.0,12100.0,1.0
+CBRE,4.1,Real Estate,Hyderabad,5000.0,18900.0,206.0
+"TVS, Motor",3.9,Automobile,Hosur,5000.0,16000.0,21.0
+"Persistent, Systems",3.6,IT Services & Consulting,Pune,5000.0,45600.0,293.0
+"State, Bank, of, India",3.8,Banking,Mumbai,4900.0,11800.0,10.0
+Atos,3.8,IT Services & Consulting,Pune,4900.0,33800.0,95.0
+vivo,4.1,Consumer Electronics & Appliances,Noida,4900.0,13100.0,5.0
+"KEC, International",4.0,Engineering & Construction,Mumbai,4900.0,13500.0,15.0
+"Ecom, Express",4.0,Logistics,Gurugram,4800.0,9400.0,0.0
+Amdocs,3.6,Software Product,Pune,4800.0,37300.0,15.0
+"ITC, Infotech",3.8,IT Services & Consulting,Bengaluru,4800.0,29800.0,88.0
+"JBM, Group",3.9,Auto Components,Gurugram,4800.0,14000.0,63.0
+"Varun, Beverages",4.0,Beverage,New,4800.0,11900.0,62.0
+Eviden,3.6,IT Services & Consulting,Pune,4800.0,27700.0,1.0
+Nagarro,3.9,IT Services & Consulting,Gurugram,4700.0,32800.0,334.0
+Bosch,4.1,Auto Components,Bengaluru,4600.0,21000.0,0.0
+Randstad,3.7,Recruitment,Hyderabad,4600.0,16800.0,6.0
+"Utkarsh, Small, Finance, Bank",3.6,Banking,Varanasi,4600.0,11400.0,24.0
+"EY, Global, Delivery, Services, EY, GDS",3.5,IT Services & Consulting,Bengaluru,4600.0,50600.0,9.0
+"Hewlett, Packard, Enterprise",4.0,IT Services & Consulting,Bengaluru,4600.0,27300.0,299.0
+Cars24,3.5,Internet,Gurugram,4600.0,15500.0,68.0
+"Aditya, Birla, Fashion, and, Retail",4.0,Fashion & Textile,Bengaluru,4600.0,13000.0,40.0
+"Home, Credit, Finance",4.0,NBFC,Gurugram,4600.0,9500.0,98.0
+"L, T, Finance",3.9,NBFC,Mumbai,4500.0,11600.0,0.0
+"Mahindra, Logistics",3.7,Logistics,Mumbai,4500.0,12900.0,60.0
+Havells,3.9,Electrical Equipment,Noida,4500.0,14600.0,24.0
+Dell,3.8,Consumer Electronics & Appliances,Bengaluru,4500.0,28900.0,31.0
+"Intas, Pharmaceuticals",4.1,Pharma,Ahmedabad,4500.0,17200.0,51.0
+"R1, RCM",3.8,BPO,New,4500.0,22000.0,219.0
+OPPO,3.9,Consumer Electronics & Appliances,Greater,4500.0,11800.0,3.0
+"Tata, AIA, Life, Insurance",3.9,Insurance,Mumbai,4400.0,14200.0,754.0
+Hetero,3.9,Pharma,Hyderabad,4400.0,15300.0,60.0
+"Deutsche, Bank",3.8,Banking,Pune,4400.0,36800.0,615.0
+"Hyundai, Motor, India, Limited",4.1,Automobile,Chennai,4400.0,14200.0,0.0
+"Berger, Paints",3.7,Chemicals,Kolkata,4400.0,10500.0,113.0
+"Motilal, Oswal, Financial, Services",3.7,Financial Services,Mumbai,4400.0,12900.0,43.0
+"TeamLease, Services",3.9,Recruitment,Bengaluru,4300.0,16200.0,2.0
+Lenskart,3.3,Internet,New,4300.0,13000.0,186.0
+"VE, Commercial, Vehicles",3.9,Automobile,Indore,4300.0,14100.0,2.0
+"Thermax, Limited",4.2,Industrial Machinery,Pune,4200.0,13200.0,65.0
+"Macleods, Pharmaceuticals",3.7,Pharma,Mumbai,4200.0,15600.0,10.0
+"Bajaj, Auto",3.8,Automobile,Pune,4200.0,14600.0,0.0
+"Jubilant, Foods, Works",3.7,Hospitality,New,4200.0,9500.0,260.0
+"Aakash, Educational, Services",3.2,Education & Training,New,4200.0,13700.0,103.0
+"Kogta, Financial, India, Limited",4.7,NBFC,Jaipur,4100.0,1900.0,137.0
+"LG, Electronics",3.9,Consumer Electronics & Appliances,Pune,4100.0,11200.0,0.0
+"Hindalco, Industries",4.2,Metals & Mining,Sambalpur,4100.0,12800.0,12.0
+"Jindal, Steel, Limited",3.9,Iron & Steel,Angul,4100.0,15800.0,49.0
+"Royal, Enfield",4.2,Automobile,Chennai,4100.0,14900.0,15.0
+"State, Street, Corporation",3.5,Financial Services,Bengaluru,4100.0,32400.0,6.0
+"DCB, Bank",3.8,Banking,Mumbai,4000.0,9700.0,23.0
+"HDFC, Ergo, General, Insurance",4.0,Insurance,Mumbai,4000.0,12100.0,317.0
+"Tata, Communications",3.9,Telecom,Pune,4000.0,23500.0,281.0
+"John, Deere",4.0,Industrial Machinery,Pune,4000.0,15300.0,3.0
+"RBL, Bank",3.5,Banking,Mumbai,4000.0,18500.0,32.0
+Cummins,4.3,Industrial Machinery,Pune,3900.0,15600.0,100.0
+"Publicis, Sapient",3.3,IT Services & Consulting,Bengaluru,3900.0,31400.0,211.0
+"Bank, of, America",4.1,Banking,Gurugram,3900.0,29000.0,0.0
+"Alembic, Pharmaceuticals",3.9,Pharma,Vadodara,3900.0,15400.0,70.0
+"Pidilite, Industries",4.2,Chemicals,Mumbai,3900.0,11600.0,19.0
+"Oyo, Rooms",3.0,Internet,Gurugram,3900.0,14300.0,167.0
+"American, Express",4.1,Financial Services,Gurugram,3800.0,25200.0,167.0
+Subros,3.8,Auto Components,Noida,3800.0,12600.0,1.0
+"Grasim, Industries",4.0,Building Material,Bharuch,3800.0,12800.0,6.0
+"Aditya, Birla, Sun, Life, Insurance",4.0,Insurance,Mumbai,3800.0,10000.0,1.0
+Kyndryl,4.0,IT Services & Consulting,Bengaluru,3800.0,26600.0,4.0
+"Reliance, Communications",4.0,Telecom,Mumbai,3800.0,9400.0,0.0
+"Carelon, Global, Solutions",3.9,IT Services & Consulting,Bengaluru,4200.0,28500.0,59.0
+"Altruist, Technologies",4.4,BPO,Bengaluru,3800.0,8300.0,5.0
+XpressBees,4.2,Logistics,Pune,3800.0,8200.0,13.0
+"ADP, Private, Limited",3.9,Software Product,Hyderabad,3800.0,22200.0,69.0
+"PNB, MetLife",3.3,Insurance,New,3800.0,8000.0,16.0
+"Aditya, Birla, Capital",3.8,NBFC,Mumbai,3800.0,14100.0,3.0
+Viatris,4.1,Pharma,Hyderabad,3800.0,14100.0,4.0
+"PVR, INOX",3.9,Media & Entertainment,New,3800.0,9400.0,22.0
+"Escorts, Kubota, Limited",4.1,Automobile,Faridabad,3800.0,13400.0,3.0
+Maersk,4.0,Logistics,Chennai,3700.0,19100.0,43.0
+"Cloudnine, Hospital",4.5,Healthcare,Bengaluru,3700.0,3000.0,18.0
+"KPIT, Technologies",2.9,Software Product,Pune,3700.0,23300.0,48.0
+Synechron,3.4,IT Services & Consulting,Pune,3700.0,28300.0,182.0
+Birlasoft,3.5,IT Services & Consulting,Pune,3700.0,29900.0,555.0
+"JK, Cement",4.0,Building Material,New,3700.0,10000.0,2.0
+"Glenmark, Pharmaceuticals",3.8,Pharma,Mumbai,3700.0,12400.0,33.0
+Dabur,3.8,FMCG,New,3700.0,8900.0,15.0
+Sodexo,4.0,Facility Management Services,Mumbai,3700.0,9900.0,926.0
+"Bharat, Electronics",4.2,Electronics Manufacturing,Bengaluru,3600.0,12600.0,1.0
+"Kotak, Mahindra, Life, Insurance, Company",3.5,Insurance,Mumbai,3600.0,12500.0,156.0
+"Godrej, Boyce, Manufacturing",3.9,Consumer Electronics & Appliances,Mumbai,3600.0,15100.0,47.0
+"Cogent, E, Services",3.1,BPO,Noida,3600.0,10300.0,2.0
+"Samvardhana, Motherson, Group",3.7,Auto Components,Noida,3600.0,12100.0,19.0
+Abbott,4.1,Pharma,Mumbai,3600.0,12000.0,193.0
+"Ipca, Laboratories",3.8,Pharma,Mumbai,3600.0,11500.0,47.0
+"Aarti, Industries",4.1,Agro Chemicals,Bharuch,3600.0,14400.0,42.0
+PhonePe,4.0,FinTech,Bengaluru,3600.0,13300.0,88.0
+"Reliance, Projects, Property, Management, Services",4.0,Other,Kolkata,3500.0,7300.0,0.0
+"Indian, Oil, Corporation",4.4,Oil & Gas,New,3500.0,7800.0,0.0
+"Reliance, Digital",4.2,Retail,Mumbai,3500.0,7900.0,1.0
+"MRF, Tyres",3.6,Auto Components,Chennai,3500.0,12800.0,18.0
+"UNO, Minda",4.0,Auto Components,Pune,3500.0,11400.0,9.0
+"IGT, Solutions",3.2,BPO,New,3500.0,13600.0,112.0
+"Alkem, Laboratories",3.9,Pharma,Mumbai,3500.0,9800.0,22.0
+"Johnson, Controls",3.5,Industrial Automation,Pune,3500.0,17700.0,3.0
+"NTT, DATA, Inc",3.9,IT Services & Consulting,Bengaluru,3500.0,21200.0,97.0
+"Honda, Motorcycle, Scooter",4.1,Automobile,Gurugram,3500.0,11100.0,1.0
+Blinkit,3.8,Internet,Gurugram,3500.0,13100.0,2.0
+"ArcelorMittal, Nippon, Steel",4.1,Iron & Steel,Surat,3500.0,12000.0,6.0
+"24, 7, ai",3.4,Software Product,Bengaluru,3400.0,11700.0,92.0
+"Vishal, Mega, Mart",3.7,Retail,New,3400.0,6200.0,6.0
+"Hindustan, Coca, Cola, Beverages",4.0,Beverage,Bengaluru,3400.0,7800.0,53.0
+UBS,3.8,Financial Services,Pune,3400.0,31800.0,1.0
+"IndusInd, Nippon, Life, Insurance",3.4,NA,NA,3400.0,4700.0,1.0
+"DTDC, Express",3.7,Logistics,New,3400.0,8600.0,31.0
+ABB,4.0,Industrial Machinery,Bengaluru,3400.0,18100.0,3100.0
+"Bajaj, General, Insurance, Limited",3.7,Insurance,Pune,3400.0,10700.0,275.0
+"Ford, Motor",4.2,Automobile,Chennai,3400.0,15300.0,3.0
+Barclays,3.7,Banking,Pune,3300.0,32400.0,0.0
+"Ceat, Tyres",3.9,Auto Components,Nagpur,3300.0,13000.0,13.0
+"RSPL, Group",4.1,FMCG,Kanpur,3300.0,9600.0,17.0
+"TVS, Credit, Services, Ltd",4.2,NBFC,Chennai,3300.0,7200.0,33.0
+"AGS, Health",4.0,Analytics & KPO,Chennai,3300.0,14500.0,50.0
+"NatWest, Group",4.0,Banking,Gurugram,3300.0,21200.0,49.0
+HARMAN,3.8,Consumer Electronics & Appliances,Bengaluru,3300.0,24200.0,111.0
+Croma,3.8,Retail,Mumbai,3300.0,9200.0,15.0
+"InterGlobe, Aviation",3.5,Aviation,New,3300.0,13400.0,51.0
+Conduent,3.4,BPO,Bengaluru,3300.0,16900.0,330.0
+"Alstom, Transportation",3.7,Engineering & Construction,Bengaluru,3200.0,15100.0,200.0
+"Niva, Bupa, Health, Insurance, Company",4.0,Insurance,New,3200.0,8400.0,46.0
+"Indian, Air, Force",4.6,Defence & Aerospace,New,3200.0,5400.0,0.0
+"Tata, Technologies",3.4,Engineering & Construction,Pune,3200.0,22900.0,105.0
+"GeBBS, Healthcare, Solutions",3.8,BPO,Mumbai,3200.0,11300.0,83.0
+"Tata, AIG",4.0,Insurance,Mumbai,3200.0,11400.0,72.0
+"Allcargo, Logistics",3.8,Logistics,Mumbai,3200.0,7100.0,32.0
+UPL,4.1,Agro Chemicals,Ankleshwar,3200.0,11100.0,49.0
+"Marpu, Foundation",4.9,Non-Profit,Hyderabad,3100.0,60.0,0.0
+"Max, Healthcare",4.0,Healthcare,New,3100.0,10500.0,137.0
+"Amazon, Transportation, Services",4.2,Logistics,Hyderabad,3100.0,8500.0,0.0
+PepsiCo,4.0,Food Processing,Hyderabad,3100.0,13700.0,235.0
+"Dilip, Buildcon",3.9,Engineering & Construction,Bhopal,3100.0,8100.0,21.0
+"Titan, Company",4.2,Retail,Bengaluru,3100.0,9700.0,108.0
+Walmart,3.5,Retail,Bengaluru,3100.0,23000.0,218.0
+"Mankind, Pharma",3.8,Pharma,New,3100.0,9500.0,8.0
+"Jindal, Stainless",4.2,Iron & Steel,Jajpur,3100.0,11600.0,83.0
+"Varroc, Group",3.6,Auto Components,Pune,3100.0,9500.0,38.0
+"S, P, Global",4.0,Analytics & KPO,Hyderabad,3100.0,20600.0,600.0
+Sagility,3.9,BPO,Bengaluru,3100.0,12100.0,104.0
+"MSN, Laboratories",3.6,Pharma,Hyderabad,3100.0,9500.0,27.0
+"Societe, Generale, Global, Solution, Centre",3.6,IT Services & Consulting,Bengaluru,3100.0,23100.0,109.0
+"Quest, Global",3.5,IT Services & Consulting,Bengaluru,3000.0,21300.0,160.0
+"Afcons, Infrastructure",4.2,Engineering & Construction,Mumbai,3000.0,8500.0,30.0
+"Future, Group",4.3,Retail,Mumbai,3000.0,6700.0,0.0
+"Torrent, Pharmaceuticals",4.0,Pharma,Ahmedabad,3000.0,10300.0,24.0
+"Ola, Electric, Mobility",3.3,Automobile,Bengaluru,3000.0,9500.0,0.0
+"IDFC, FIRST, Bharat",4.2,Financial Services,Chennai,3000.0,5000.0,5.0
+"ESAF, Small, Finance, Bank",3.6,Banking,Thrissur,3000.0,7300.0,38.0
+"Square, Yards",3.6,Internet,Gurugram,3000.0,9300.0,63.0
+"HDFC, Sales",3.9,Financial Services,Mumbai,3000.0,8400.0,9.0
+"CMS, IT, Services",3.1,IT Services & Consulting,Mumbai,3000.0,9400.0,26.0
+"Zensar, Technologies",3.7,IT Services & Consulting,Pune,3000.0,25600.0,150.0
+"I, Process, Services",3.8,Recruitment,Mumbai,3000.0,5500.0,0.0
+"DS, Group",4.1,FMCG,Noida,2900.0,7300.0,46.0
+ACC,3.9,Building Material,Mumbai,2900.0,9100.0,0.0
+"Suzlon, Group",4.0,Power,Pune,2900.0,7900.0,20.0
+"Tata, Elxsi",3.5,IT Services & Consulting,Bengaluru,2900.0,23200.0,51.0
+"Eternal, Limited",3.6,Internet,Gurugram,2900.0,14600.0,14.0
+"Bharat, Financial, Inclusion",3.7,Financial Services,Hyderabad,2900.0,5200.0,3.0
+"Indus, Towers",3.6,Telecom,Gurugram,2900.0,9200.0,54.0
+"Shoppers, Stop",4.0,Retail,Mumbai,2900.0,6900.0,47.0
+Fujitsu,3.8,IT Services & Consulting,Pune,2900.0,17400.0,135.0
+"VVDN, Technologies",3.6,IT Services & Consulting,Gurugram,2900.0,13800.0,10.0
+Nokia,4.0,Telecom,Bengaluru,2900.0,16600.0,102.0
+"Apollo, Tyres",4.0,Auto Components,Chennai,2900.0,9900.0,0.0
+"IKS, Health",3.6,Healthcare,Mumbai,2900.0,11300.0,27.0
+Yazaki,3.9,Auto Components,Pune,2900.0,9000.0,1.0
+"Shree, Cement",3.8,Building Material,Beawar,2800.0,9900.0,6.0
+Fiserv,2.8,FinTech,Pune,2800.0,17800.0,9.0
+"Tata, Electronics",3.9,Semiconductors,Hosur,2800.0,11500.0,79.0
+Britannia,4.0,FMCG,Pune,2800.0,8400.0,10.0
+Zepto,3.5,Internet,Bengaluru,2800.0,9400.0,38.0
+UnitedHealth,4.0,Healthcare,Hyderabad,2800.0,14100.0,0.0
+"Landmark, Group",3.8,Retail,Bengaluru,2800.0,9300.0,11.0
+"Dalmia, Bharat, Cement",3.9,Building Material,Guwahati,2800.0,4900.0,2.0
+SRF,4.1,Chemicals,Bharuch,2800.0,9000.0,10.0
+"Blue, Dart, Express, Ltd",4.0,Logistics,Mumbai,2700.0,6900.0,17.0
+"Kansai, Nerolac, Paints",3.8,Chemicals,Mumbai,2700.0,7700.0,67.0
+Nestlé,3.8,FMCG,Gurugram,2700.0,9900.0,9.0
+"Exide, Industries",3.4,Auto Components,Kolkata,2700.0,8700.0,70.0
+Shell,3.9,Oil & Gas,Bengaluru,2700.0,14100.0,71.0
+ZS,3.1,Management Consulting,Pune,2700.0,20400.0,261.0
+"KPMG, Global, Services",3.5,Management Consulting,Bengaluru,2700.0,24000.0,18.0
+Flex,3.9,Electronics Manufacturing,Chennai,2700.0,15800.0,67.0
+"Whitehat, jr",3.3,EdTech,Mumbai,2700.0,9300.0,0.0
+"Micro, Labs",3.6,Pharma,Bengaluru,2700.0,9900.0,21.0
+"Star, Health, Allied, Insurance",3.5,Insurance,Chennai,2700.0,10200.0,25.0
+"TVS, Supply, Chain, Solutions",3.8,Logistics,Chennai,2700.0,8500.0,15.0
+ElasticRun,3.6,Logistics,Pune,2700.0,6200.0,1.0
+Capita,3.5,BPO,Pune,2700.0,12800.0,57.0
+KFintech,3.4,Financial Services,Hyderabad,2600.0,11200.0,0.0
+G4S,4.0,Law Enforcement & Security,Gurugram,2600.0,5100.0,799.0
+"Exl, India",3.5,Logistics,New,2600.0,15900.0,1.0
+Voltas,4.0,Consumer Electronics & Appliances,Mumbai,2600.0,8600.0,7.0
+"Blue, Star",4.1,Consumer Electronics & Appliances,Mumbai,2600.0,9900.0,31.0
+"Sonalika, Tractors",3.6,Automobile,Hoshiarpur,2600.0,9000.0,3.0
+"Ajanta, Pharma",3.9,Pharma,Mumbai,2600.0,8800.0,8.0
+BlackBuck,3.7,Internet,Bengaluru,2600.0,6500.0,24.0
+"Care, Health, Insurance",3.6,Insurance,Gurugram,2600.0,8700.0,80.0
+Movate,3.1,IT Services & Consulting,Chennai,2600.0,15000.0,104.0
+"Domino, s, Pizza",3.9,Hospitality,New,2600.0,4300.0,0.0
+Physicswallah,3.6,EdTech,Noida,2600.0,8500.0,300.0
+Gallagher,3.7,Insurance,Bengaluru,2600.0,14300.0,126.0
+NoBroker,3.0,Internet,Bengaluru,2600.0,10700.0,364.0
+Foxconn,3.9,Electronics Manufacturing,Chennai,2600.0,10700.0,17.0
+"Fortis, Healthcare",4.0,Healthcare,New,2600.0,7600.0,832.0
+"Adani, Power",3.7,Power,Mundra,2600.0,10000.0,0.0
+"DBS, Bank",3.7,Banking,Hyderabad,2600.0,13100.0,156.0
+"ACT, Fibernet",3.8,Telecom,Hyderabad,2600.0,7800.0,150.0
+"Tata, Advanced, Systems",3.7,Defence & Aerospace,Bengaluru,2500.0,12800.0,0.0
+"Himalaya, Wellness",4.0,Pharma,Bengaluru,2500.0,6200.0,48.0
+"Sahrudaya, Healthcare, Medicover, Hospitals",4.4,Healthcare,Hyderabad,2500.0,3500.0,36.0
+Foundever,3.3,BPO,Hyderabad,2500.0,8900.0,84.0
+"Photon, Interactive",4.1,IT Services & Consulting,Chennai,2500.0,7400.0,785.0
+"BT, Group",3.8,Telecom,Gurugram,2500.0,11600.0,6.0
+"Sterlite, Technologies",3.8,Hardware & Networking,Chhatrapati,2500.0,10100.0,117.0
+"Alldigi, Tech",3.9,BPO,Chennai,2500.0,7600.0,50.0
+"V, Mart",4.0,Retail,Gurugram,2500.0,4400.0,19.0
+IntouchCX,2.7,BPO,Hyderabad,2500.0,10000.0,225.0
+"Bajaj, Electricals",3.9,Consumer Electronics & Appliances,Mumbai,2500.0,7500.0,21.0
+"Tractors, and, Farm, Equipment",3.9,Industrial Machinery,Chennai,2500.0,8500.0,18.0
+"Sammaan, Capital, Limited",3.8,NBFC,Gurugram,2500.0,5800.0,12.0
+"Northern, Trust, Operating, Services",3.6,Financial Services,Bengaluru,2500.0,17300.0,66.0
+"Laurus, Labs",4.3,Pharma,Visakhapatnam,2500.0,7300.0,4.0
+JCB,3.9,Industrial Machinery,Pune,2500.0,9600.0,0.0
+"Parle, Agro",4.0,Beverage,Mumbai,2500.0,6700.0,0.0
+"Canara, HSBC, Life, Insurance",3.6,Insurance,Gurugram,2500.0,6300.0,5.0
+"Planet, Spark",3.8,EdTech,Gurugram,2400.0,3500.0,73.0
+"McDonald, s",3.9,Hospitality,New,2400.0,4900.0,3.0
+"Patanjali, Ayurved",3.9,FMCG,Haridwar,2400.0,5800.0,0.0
+"ICICI, Securities",3.9,Financial Services,Mumbai,2400.0,9700.0,1.0
+"Paras, Hospital",4.1,Healthcare,Patna,2400.0,3200.0,87.0
+"Hero, FinCorp",3.9,NBFC,New,2400.0,5800.0,83.0
+"Emcure, Pharmaceuticals",3.6,Pharma,Pune,2400.0,8400.0,60.0
+"Statestreet, HCL, Services",3.4,BPO,Chennai,2400.0,13500.0,0.0
+"Biocon, Limited",4.1,Biotechnology,Bengaluru,2400.0,11600.0,8.0
+"Intellect, Design, Arena",3.6,Software Product,Chennai,2400.0,13500.0,30.0
+"Mahindra, Rural, Housing, Finance",4.0,NBFC,Mumbai,2400.0,4700.0,17.0
+"Datamatics, Global, Services",3.4,IT Services & Consulting,Mumbai,2400.0,11700.0,63.0
+"Mahindra, Holidays, Resorts",3.5,Hospitality,Mumbai,2400.0,5900.0,65.0
+"Adani, Group",3.8,Power,Ahmedabad,2400.0,11200.0,894.0
+"CorroHealth, Infotech",3.6,Analytics & KPO,Hyderabad,2400.0,7400.0,50.0
+"Taj, Hotels, Resorts, and, Palaces",4.2,Hospitality,Mumbai,2400.0,4800.0,467.0
+"Aditya, Birla, Group",4.1,Metals & Mining,Mumbai,2400.0,10000.0,7.0
+"Axis, Direct",3.6,Financial Services,Mumbai,2400.0,4600.0,47.0
+"Cadila, Pharmaceuticals",3.3,Pharma,Ahmedabad,2400.0,8000.0,107.0
+"Cholamandalam, MS, General, Insurance",3.7,Insurance,Chennai,2400.0,6000.0,0.0
+"Syngene, International",3.8,Clinical Research,Bengaluru,2400.0,12600.0,5.0
+"3i, Infotech",3.4,IT Services & Consulting,Mumbai,2400.0,10700.0,80.0
+"Info, Edge",3.9,Internet,Noida,2400.0,11300.0,390.0
+"Capgemini, Engineering",3.4,IT Services & Consulting,Bengaluru,2300.0,14100.0,0.0
+"Bureau, Veritas",3.8,Other,Mumbai,2300.0,8100.0,20.0
+KocharTech,3.6,IT Services & Consulting,Kolkata,2300.0,3800.0,29.0
+TaskUs,3.0,BPO,Indore,2300.0,9500.0,291.0
+"Delhi, Public, School",3.8,Education & Training,New,2300.0,5300.0,141.0
+"Aavas, Financiers",4.0,NBFC,Jaipur,2300.0,5500.0,42.0
+RMSI,3.5,IT Services & Consulting,Hyderabad,2300.0,8800.0,14.0
+Cybage,3.8,IT Services & Consulting,Pune,2300.0,17200.0,18.0
+Xoriant,4.1,IT Services & Consulting,Pune,2300.0,11600.0,35.0
+Straive,3.3,IT Services & Consulting,Chennai,2300.0,10200.0,97.0
+"Sopra, Steria",3.9,IT Services & Consulting,Noida,2300.0,14100.0,55.0
+"Akums, Drugs, Pharmaceuticals, Limited",4.2,Pharma,Haridwar,2300.0,6300.0,16.0
+Lifestyle,4.2,Retail,Bengaluru,2300.0,6700.0,20.0
+"Kia, India",4.0,Automobile,Anantapur,2300.0,8200.0,80.0
+"GVK, Emergency, Management, and, Research, Institute",3.6,Non-Profit,Lucknow,2300.0,4600.0,63.0
+"Eureka, Forbes",3.7,Consumer Electronics & Appliances,Mumbai,2300.0,5600.0,8.0
+Sobha,3.8,Real Estate,Bengaluru,2300.0,8300.0,45.0
+"Apollo, Pharmacy",3.6,Pharma,Hyderabad,2300.0,6800.0,1000.0
+Lodha,4.1,Real Estate,Mumbai,2300.0,8800.0,192.0
+Unacademy,2.9,EdTech,Bengaluru,2300.0,10200.0,40.0
+"Radisson, Hotels",4.0,Hospitality,New,2200.0,5100.0,38.0
+Myntra,3.9,Internet,Bengaluru,2200.0,10500.0,8.0
+"GAO, Tek",4.5,Electrical Equipment,New,2200.0,260.0,0.0
+"Endurance, Technologies, Limited",3.9,Auto Components,Chhatrapati,2200.0,7800.0,20.0
+"SBI, Securities",3.6,Financial Services,Mumbai,2200.0,6700.0,45.0
+TCE,3.8,Engineering & Construction,Mumbai,2200.0,9500.0,25.0
+"Team, Computers",3.6,IT Services & Consulting,New,2200.0,8500.0,178.0
+"Panasonic, Life, Solutions, India",3.9,Consumer Electronics & Appliances,Haridwar,2200.0,6800.0,19.0
+"Newgen, Software, Technologies",4.0,IT Services & Consulting,Noida,2200.0,11600.0,47.0
+"AWL, Agri, Business",4.0,FMCG,Ahmedabad,2200.0,6800.0,17.0
+"Lava, International",3.9,Consumer Electronics & Appliances,Noida,2200.0,4400.0,1.0
+"Star, Union, Dai, ichi, Life, Insurance",3.8,Insurance,Mumbai,2200.0,5300.0,14.0
+"Daikin, Airconditioning, India, Pvt, Ltd",4.2,Consumer Electronics & Appliances,Neemrana,2200.0,7800.0,1.0
+Cisco,4.1,Hardware & Networking,Bengaluru,2200.0,18800.0,178.0
+"Bharti, AXA, Life, Insurance",3.6,Insurance,Mumbai,2200.0,5200.0,32.0
+"BNP, Paribas",3.7,Banking,Mumbai,2200.0,18300.0,25.0
+Whirlpool,4.0,Consumer Electronics & Appliances,Pune,2200.0,8000.0,13.0
+"SBI, General, Insurance",3.6,Insurance,Mumbai,2200.0,6500.0,30.0
+"Indian, Railways",4.2,Railways,Kolkata,2200.0,3400.0,0.0
+Meesho,3.7,Internet,Bengaluru,2200.0,9500.0,179.0
+"Coromandel, International",4.1,Agro Chemicals,Visakhapatnam,2200.0,7600.0,14.0
+"GlaxoSmithKline, Pharmaceuticals",4.0,Pharma,Bengaluru,2200.0,5700.0,44.0
+"Renault, Nissan, Technology, Business, Centre, India",3.7,Automobile,Chennai,2200.0,14700.0,30.0
+"Shahi, Exports",3.9,Fashion & Textile,Bengaluru,2200.0,6900.0,43.0
+"Sify, Technologies",3.6,IT Services & Consulting,Chennai,2200.0,9900.0,60.0
+"Nokia, Networks",4.1,Hardware & Networking,Chennai,2200.0,10400.0,0.0
+"Ambuja, Cements",3.8,Building Material,Mumbai,2200.0,6100.0,0.0
+ValueLabs,3.5,IT Services & Consulting,Hyderabad,2200.0,16100.000000000002,83.0
+Allstate,3.7,Insurance,Pune,2200.0,12200.0,10.0
+"Bank, of, Baroda",3.5,Banking,Mumbai,2100.0,7100.0,0.0
+"Microsoft, Corporation",3.8,Software Product,Bengaluru,2100.0,29800.0,0.0
+"Life, Insurance, Corporation, of, India",4.4,Insurance,New,2100.0,4500.0,1.0
+"Brakes, India",3.9,Auto Components,Chennai,2100.0,7100.0,8.0
+BHEL,4.2,Electrical Equipment,Bengaluru,2100.0,5200.0,0.0
+"Spark, Minda",3.8,Auto Components,Pune,2100.0,7200.0,3.0
+Cargill,3.9,Food Processing,Bengaluru,2100.0,8500.0,307.0
+"Poonawalla, Fincorp",3.5,NBFC,Pune,2100.0,5800.0,19.0
+"Mercedes, Benz, Research, and, Development, India",3.6,IT Services & Consulting,Bengaluru,2100.0,17800.0,330.0
+upGrad,3.3,EdTech,Bengaluru,2100.0,9200.0,79.0
+"Huawei, Technologies",4.1,Telecom,Bengaluru,2100.0,8000.0,34.0
+"JK, Tyre",3.8,Auto Components,Chennai,2100.0,6800.0,0.0
+CAMS,3.6,Financial Services,Chennai,2100.0,8600.0,22.0
+FirstCry,3.6,Retail,Pune,2100.0,8600.0,1.0
+"Generali, Central, Life, Insurance",3.5,Insurance,Mumbai,2100.0,6700.0,6.0
+"Power, Mech, Projects",3.8,Engineering & Construction,Hyderabad,2100.0,6800.0,13.0
+"Saint, Gobain",3.8,Building Material,Mumbai,2100.0,11600.0,165.0
+"Jio, Platforms",3.4,IT Services & Consulting,Mumbai,2100.0,14200.0,0.0
+"Simplex, Infrastructures",3.4,Engineering & Construction,Kolkata,2100.0,4400.0,2.0
+Pfizer,3.9,Pharma,Visakhapatnam,2100.0,5800.0,56.0
+"Maruti, Suzuki, India, Limited, Hansalpur",4.2,Automobile,Ahmedabad,2100.0,6800.0,0.0
+"Bharat, Petroleum",4.1,Oil & Gas,Mumbai,2100.0,6900.0,0.0
+"Nuvoco, Vistas",4.1,Building Material,Kolkata,2100.0,6900.0,22.0
+"NTT, DATA, Business, Solutions",4.1,IT Services & Consulting,Bengaluru,2100.0,12500.0,29.0
+"Force, Motors",3.7,Automobile,Pune,2100.0,8300.0,8.0
+"Manipal, Hospitals",4.1,Healthcare,Bengaluru,2100.0,6900.0,90.0
+"Kotak, Securities",3.5,Financial Services,Mumbai,2100.0,9500.0,35.0
+"Raymond, Lifestyle, Limited",4.1,Fashion & Textile,Mumbai,2100.0,6400.0,0.0
+"Reliance, Trends",4.1,Retail,Bengaluru,2100.0,4200.0,0.0
+"Ola, Cabs",3.3,Internet,Bengaluru,2100.0,9100.0,14.0
+"ITC, Hotels",4.1,Hospitality,Bengaluru,2100.0,5300.0,0.0
+"Infinite, Computer, Solutions",3.3,IT Services & Consulting,Bengaluru,2000.0,15200.0,252.0
+CitiusTech,3.2,IT Services & Consulting,Mumbai,2000.0,14400.0,42.0
+"Renault, Nissan",4.1,Automobile,Chennai,2000.0,7600.0,0.0
+"IndusInd, General, Insurance",3.6,Insurance,Mumbai,2000.0,7100.0,13.0
+"Biological, E",4.2,Pharma,Hyderabad,2000.0,7000.0,34.0
+"Delphi, TVS",3.8,Auto Components,Chennai,2000.0,5600.0,3.0
+"Henry, Harvin, Education",3.6,EdTech,Noida,2000.0,919.0,47.0
+"Extramarks, Education",3.3,EdTech,Noida,2000.0,7500.0,4.0
+"Morgan, Stanley",3.6,Financial Services,Mumbai,2000.0,26600.0,7.0
+SGS,3.8,"Testing, Inspection and Certification (TIC)",Mumbai,2000.0,6400.0,137.0
+"EPAM, Systems",3.7,IT Services & Consulting,Hyderabad,2000.0,22700.0,223.0
+"YASH, Technologies",3.7,IT Services & Consulting,Hyderabad,2000.0,16200.0,464.0
+"K12, Techno, Services",3.7,EdTech,Bengaluru,2000.0,5200.0,415.0
+"Senco, Gold",4.4,Jewellery,Kolkata,2000.0,1500.0,1.0
+Ninjacart,3.8,Internet,Bengaluru,2000.0,5000.0,23.0
+Novartis,4.1,Pharma,Hyderabad,2000.0,10200.0,132.0
+"State, Street, Syntel",3.7,Financial Services,Mumbai,2000.0,7000.0,0.0
+"IDBI, Bank",3.4,Banking,Mumbai,2000.0,6100.0,0.0
+SAP,4.1,Software Product,Bengaluru,2000.0,17600.0,0.0
+"Aditya, Birla, Health, Insurance, Co",3.7,Insurance,Mumbai,2000.0,7200.0,3.0
+"Narayana, Health",4.0,Healthcare,Bengaluru,2000.0,6000.0,118.0
+"HSBC, Electronic, Data, Processing",4.0,IT Services & Consulting,Bengaluru,2000.0,8600.0,0.0
+"L, T, Energy, Hydrocarbon",3.8,Engineering & Construction,Vadodara,2000.0,8400.0,0.0
+AECOM,4.2,Engineering & Construction,Gurugram,1900.0,7000.0,174.0
+"Shadowfax, Technologies",3.5,Logistics,Bengaluru,1900.0,7600.0,74.0
+"Honeywell, Automation",3.7,Industrial Automation,Pune,1900.0,12100.0,0.0
+"Paisabazaar, com",3.4,Internet,Gurugram,1900.0,7000.0,40.0
+Schindler,3.9,Industrial Machinery,Pune,1900.0,6200.0,69.0
+"Haier, Appliances, India",4.0,Consumer Electronics & Appliances,Pune,1900.0,7000.0,51.0
+Trent,3.8,Retail,Mumbai,1900.0,4800.0,16.0

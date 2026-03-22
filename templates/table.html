@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table View</title>
+    <link rel="stylesheet" href="/static/table.css">
+</head>
+<body>
+
+<div class="table-container">
+    <h2>📊 Filtered Results</h2>
+
+    <table class="styled-table">
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Location</th>
+                <th>Industry</th>
+                <th>Rating</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        {% for row in data %}
+        <tr>
+            <td>{{ row.company }}</td>
+            <td>{{ row.location }}</td>
+            <td>{{ row.Industry }}</td>
+            <td>{{ row.ratings}}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+/* Page background */
+body {
+    margin: 0;
+    font-family: Arial;
+    background: linear-gradient(135deg, #76b852, #8DC26F);
+}
+
+/* Container */
+.table-container {
+    width: 90%;
+    margin: 40px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+}
+
+/* Title */
+.table-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Table Styling */
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+/* Header */
+.styled-table thead tr {
+    background: linear-gradient(135deg, #007bff, #00c6ff);
+    color: white;
+    text-align: left;
+}
+
+/* Cells */
+.styled-table th, 
+.styled-table td {
+    padding: 12px 15px;
+}
+
+/* Rows */
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+/* Zebra striping */
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+/* Hover effect */
+.styled-table tbody tr:hover {
+    background-color: #d1ecf1;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Rating highlight */
+.styled-table td:last-child {
+    font-weight: bold;
+    color: #28a745;
+}
