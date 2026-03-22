@@ -1,4 +1,23 @@
 company,ratings,Industry,location,reviews,salaries,jobs
-Citicorp,3.7,Financial Services,Pune,5500.0,53500.0,0.0
-BNY,3.6,Financial Services,Pune,5200.0,31400.0,77.0
-UBS,3.8,Financial Services,Pune,3400.0,31800.0,1.0
+Accenture,3.7,IT Services & Consulting,Bengaluru,72400.0,660000.0,28000.0
+Capgemini,3.7,IT Services & Consulting,Bengaluru,52300.0,480000.0,2600.0
+Infosys,3.5,IT Services & Consulting,Bengaluru,48100.0,520000.0,2500.0
+LTIMindtree,3.6,IT Services & Consulting,Bengaluru,26100.0,190000.0,351.0
+IBM,3.9,IT Services & Consulting,Bengaluru,25500.0,210000.0,2000.0
+"DXC, Technology",3.6,IT Services & Consulting,Bengaluru,11900.0,71900.0,202.0
+UST,3.7,IT Services & Consulting,Bengaluru,5600.0,39900.0,91.0
+"Bosch, Global, Software, Technologies",3.7,IT Services & Consulting,Bengaluru,5600.0,40500.0,19.0
+"CGI, Group",4.0,IT Services & Consulting,Bengaluru,5300.0,46300.0,484.0
+"NTT, DATA",3.8,IT Services & Consulting,Bengaluru,5200.0,36500.0,82.0
+"ITC, Infotech",3.8,IT Services & Consulting,Bengaluru,4800.0,29800.0,88.0
+"EY, Global, Delivery, Services, EY, GDS",3.5,IT Services & Consulting,Bengaluru,4600.0,50600.0,9.0
+"Hewlett, Packard, Enterprise",4.0,IT Services & Consulting,Bengaluru,4600.0,27300.0,299.0
+Kyndryl,4.0,IT Services & Consulting,Bengaluru,3800.0,26600.0,4.0
+"Carelon, Global, Solutions",3.9,IT Services & Consulting,Bengaluru,4200.0,28500.0,59.0
+"NTT, DATA, Inc",3.9,IT Services & Consulting,Bengaluru,3500.0,21200.0,97.0
+"Societe, Generale, Global, Solution, Centre",3.6,IT Services & Consulting,Bengaluru,3100.0,23100.0,109.0
+"Quest, Global",3.5,IT Services & Consulting,Bengaluru,3000.0,21300.0,160.0
+"Tata, Elxsi",3.5,IT Services & Consulting,Bengaluru,2900.0,23200.0,51.0
+"Mercedes, Benz, Research, and, Development, India",3.6,IT Services & Consulting,Bengaluru,2100.0,17800.0,330.0
+"NTT, DATA, Business, Solutions",4.1,IT Services & Consulting,Bengaluru,2100.0,12500.0,29.0
+"HSBC, Electronic, Data, Processing",4.0,IT Services & Consulting,Bengaluru,2000.0,8600.0,0.0
