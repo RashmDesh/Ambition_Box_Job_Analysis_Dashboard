@@ -10,6 +10,8 @@ The dataset is collected from **AmbitionBox** and used for data analysis and vis
 ### Project Screenshot
 ![Index Page](Project_screenshot/01.png)
 ![Input](Project_screenshot/02.png)
+![Result](Project_screenshot/03.png)
+[📖 View PDF](Project_screenshot/streamlit_app.pdf)
 
 
 ---
