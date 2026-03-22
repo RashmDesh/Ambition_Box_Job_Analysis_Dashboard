@@ -11,8 +11,7 @@ The dataset is collected from **AmbitionBox** and used for data analysis and vis
 ![Index Page](Project_screenshot/01.png)
 ![Input](Project_screenshot/02.png)
 ![Result](Project_screenshot/03.png)
-[📖 Result PDF](Project_screenshot/streamlit_app.pdf)
-<iframe src="Project_screenshot/streamlit_app.pdf" width="100%" height="500px"></iframe>
+[📖 Click here to view complete dashboard (Result PDF)](Project_screenshot/streamlit_app.pdf)
 
 
 ---
